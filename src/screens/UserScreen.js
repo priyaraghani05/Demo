@@ -35,7 +35,6 @@ export class UserScreen extends React.Component {
   );
 
   render() {
-    console.log('image <<< ', image.add);
     return (
       <View style={{flex: 1}}>
         <Text>UserScreen</Text>
